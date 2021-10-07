@@ -1,0 +1,56 @@
+.control {
+  margin-bottom: 0.5rem;
+}
+
+.control label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.control {
+  font: inherit;
+  padding: 0.35rem;
+  border-radius: 4px;
+  background-color: #f0f0f0;
+  border: 1px solid #c1d1d1;
+  display: block;
+  width: 100%;
+  font-size: 1.25rem;
+}
+
+.actions {
+  text-align: right;
+}
+
+.actions button {
+  font-size: 1.25rem;
+  margin-left: 10px;
+}
+
+.deleteBtn {
+  text-decoration: none;
+  background-color: rgb(244, 28, 0);
+  color: white;
+  border-radius: 4px;
+  padding: 0.75rem 1.5rem;
+  border: 1px solid rgb(244, 28, 0);
+  cursor: pointer;
+}
+
+.deleteBtn:hover,
+.deleteBtn:active {
+  background-color: rgb(53, 9, 3);
+  border-color: rgb(53, 9, 3);
+}
+
+a {
+  color:rgb(45, 132, 161);
+  text-decoration: none;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.error {
+  color: red;
+}
