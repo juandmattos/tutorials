@@ -1,0 +1,2 @@
+(this.webpackJsonpfrontend=this.webpackJsonpfrontend||[]).push([[7],{65:function(e,n,t){"use strict";t.r(n);var c=t(0);n.default=function(){return Object(c.jsx)("div",{className:"centered",children:Object(c.jsx)("p",{children:"Page not found!"})})}}}]);
+//# sourceMappingURL=7.e91428fc.chunk.js.map
